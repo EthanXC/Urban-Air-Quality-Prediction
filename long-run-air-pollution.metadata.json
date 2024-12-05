@@ -1,0 +1,104 @@
+{
+  "chart": {
+    "title": "Emissions of air pollutants",
+    "subtitle": "Air pollutants are gases that can lead to negative impacts on human health and ecosystems. Most are produced from energy, industry, and agriculture.",
+    "citation": "Community Emissions Data System (CEDS) 2024.",
+    "originalChartUrl": "https://ourworldindata.org/grapher/long-run-air-pollution?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Nitrogen oxide (NOx)": {
+      "titleShort": "Nitrogen oxide (NOx)",
+      "titleLong": "Nitrogen oxide (NOx)",
+      "descriptionKey": [],
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "1750-2022",
+      "type": "Numeric",
+      "owidVariableId": 900429,
+      "shortName": "nox",
+      "lastUpdated": "2024-05-31",
+      "citationShort": "Community Emissions Data System (CEDS) 2024. – processed by Our World in Data",
+      "citationLong": "Community Emissions Data System (CEDS) 2024. – processed by Our World in Data. “Nitrogen oxide (NOx)” [dataset]. Community Emissions Data System (CEDS) 2024., “air_pollution_ceds” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900429.metadata.json"
+    },
+    "Sulphur dioxide (SO₂) emissions": {
+      "titleShort": "Sulphur dioxide (SO₂)",
+      "titleLong": "Sulphur dioxide (SO₂)",
+      "descriptionKey": [],
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "1750-2022",
+      "type": "Numeric",
+      "owidVariableId": 900430,
+      "shortName": "so2",
+      "lastUpdated": "2024-05-31",
+      "citationShort": "Community Emissions Data System (CEDS) 2024. – processed by Our World in Data",
+      "citationLong": "Community Emissions Data System (CEDS) 2024. – processed by Our World in Data. “Sulphur dioxide (SO₂)” [dataset]. Community Emissions Data System (CEDS) 2024., “air_pollution_ceds” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900430.metadata.json"
+    },
+    "Carbon monoxide (CO) emissions": {
+      "titleShort": "Carbon monoxide (CO)",
+      "titleLong": "Carbon monoxide (CO)",
+      "descriptionKey": [],
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "1750-2022",
+      "type": "Numeric",
+      "owidVariableId": 900431,
+      "shortName": "co",
+      "lastUpdated": "2024-05-31",
+      "citationShort": "Community Emissions Data System (CEDS) 2024. – processed by Our World in Data",
+      "citationLong": "Community Emissions Data System (CEDS) 2024. – processed by Our World in Data. “Carbon monoxide (CO)” [dataset]. Community Emissions Data System (CEDS) 2024., “air_pollution_ceds” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900431.metadata.json"
+    },
+    "Black carbon (BC) emissions": {
+      "titleShort": "Black carbon (BC)",
+      "titleLong": "Black carbon (BC)",
+      "descriptionKey": [],
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "1750-2022",
+      "type": "Numeric",
+      "owidVariableId": 900434,
+      "shortName": "bc",
+      "lastUpdated": "2024-05-31",
+      "citationShort": "Community Emissions Data System (CEDS) 2024. – processed by Our World in Data",
+      "citationLong": "Community Emissions Data System (CEDS) 2024. – processed by Our World in Data. “Black carbon (BC)” [dataset]. Community Emissions Data System (CEDS) 2024., “air_pollution_ceds” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900434.metadata.json"
+    },
+    "Ammonia (NH₃) emissions": {
+      "titleShort": "Ammonia (NH₃)",
+      "titleLong": "Ammonia (NH₃)",
+      "descriptionKey": [],
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "1750-2022",
+      "type": "Numeric",
+      "owidVariableId": 900435,
+      "shortName": "nh3",
+      "lastUpdated": "2024-05-31",
+      "citationShort": "Community Emissions Data System (CEDS) 2024. – processed by Our World in Data",
+      "citationLong": "Community Emissions Data System (CEDS) 2024. – processed by Our World in Data. “Ammonia (NH₃)” [dataset]. Community Emissions Data System (CEDS) 2024., “air_pollution_ceds” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900435.metadata.json"
+    },
+    "Non-methane volatile organic compounds (NMVOC) emissions": {
+      "titleShort": "Non-methane volatile organic compounds",
+      "titleLong": "Non-methane volatile organic compounds",
+      "descriptionKey": [],
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "1750-2022",
+      "type": "Numeric",
+      "owidVariableId": 900433,
+      "shortName": "nmvoc",
+      "lastUpdated": "2024-05-31",
+      "citationShort": "Community Emissions Data System (CEDS) 2024. – processed by Our World in Data",
+      "citationLong": "Community Emissions Data System (CEDS) 2024. – processed by Our World in Data. “Non-methane volatile organic compounds” [dataset]. Community Emissions Data System (CEDS) 2024., “air_pollution_ceds” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900433.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-12-05"
+}
