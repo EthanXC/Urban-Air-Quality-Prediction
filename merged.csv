@@ -1,0 +1,428 @@
+State,2013 Urbanization,Year,Cause of death,Deaths,Population,"Crude Rate Per 100,000",POC,Daily Mean PM2.5 Concentration,Units,Daily AQI Value,AQS Parameter Description
+New York (36),Large Central Metro,2018,"J10.0 (Influenza with pneumonia, influenza virus identified)",61,"10,060,941",0.6,1,8.5,ug/m3 LC,47,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,"J10.1 (Influenza with other respiratory manifestations, influenza virus identified)",74,"10,060,941",0.7,1,2.7,ug/m3 LC,15,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,"J11.0 (Influenza with pneumonia, virus not identified)",59,"10,060,941",0.6,1,13.9,ug/m3 LC,60,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,"J11.1 (Influenza with other respiratory manifestations, virus not identified)",49,"10,060,941",0.5,1,10.8,ug/m3 LC,54,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,J15.2 (Pneumonia due to staphylococcus),27,"10,060,941",0.3,1,6.8,ug/m3 LC,38,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,"J15.9 (Bacterial pneumonia, unspecified)",305,"10,060,941",3,1,6.6,ug/m3 LC,37,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,"J18.0 (Bronchopneumonia, unspecified)",32,"10,060,941",0.3,1,8,ug/m3 LC,44,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,"J18.1 (Lobar pneumonia, unspecified)",510,"10,060,941",5.1,1,8.2,ug/m3 LC,46,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,"J18.9 (Pneumonia, unspecified)","1,207","10,060,941",12,1,12.6,ug/m3 LC,58,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,"J43.9 (Emphysema, unspecified)",121,"10,060,941",1.2,1,13.7,ug/m3 LC,60,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),454,"10,060,941",4.5,1,5.2,ug/m3 LC,29,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",75,"10,060,941",0.7,1,10.7,ug/m3 LC,54,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,J44.8 (Other specified chronic obstructive pulmonary disease),23,"10,060,941",0.2,1,7.3,ug/m3 LC,41,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,"J44.9 (Chronic obstructive pulmonary disease, unspecified)","1,630","10,060,941",16.2,1,3.9,ug/m3 LC,22,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,"J45.9 (Asthma, unspecified)",170,"10,060,941",1.7,1,2.8,ug/m3 LC,16,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,J47 (Bronchiectasis),20,"10,060,941",0.2,1,4.6,ug/m3 LC,26,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,J69.0 (Pneumonitis due to food and vomit),216,"10,060,941",2.1,1,4.5,ug/m3 LC,25,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,J80 (Adult respiratory distress syndrome),34,"10,060,941",0.3,1,3.2,ug/m3 LC,18,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,J84.1 (Other interstitial pulmonary diseases with fibrosis),210,"10,060,941",2.1,1,3.8,ug/m3 LC,21,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,"J84.9 (Interstitial pulmonary disease, unspecified)",176,"10,060,941",1.7,1,2.8,ug/m3 LC,16,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,"J90 (Pleural effusion, not elsewhere classified)",35,"10,060,941",0.3,1,5.2,ug/m3 LC,29,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,J96.0 (Acute respiratory failure),44,"10,060,941",0.4,1,2.9,ug/m3 LC,16,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,J96.1 (Chronic respiratory failure),35,"10,060,941",0.3,1,6.3,ug/m3 LC,35,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,"J96.9 (Respiratory failure, unspecified)",69,"10,060,941",0.7,1,5,ug/m3 LC,28,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2018,J98.4 (Other disorders of lung),62,"10,060,941",0.6,1,5.5,ug/m3 LC,31,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,"J10.0 (Influenza with pneumonia, influenza virus identified)",32,"5,446,345",0.6,1,7.6,ug/m3 LC,42,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,"J10.1 (Influenza with other respiratory manifestations, influenza virus identified)",38,"5,446,345",0.7,1,3.4,ug/m3 LC,19,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,"J11.0 (Influenza with pneumonia, virus not identified)",48,"5,446,345",0.9,1,9,ug/m3 LC,50,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,"J11.1 (Influenza with other respiratory manifestations, virus not identified)",21,"5,446,345",0.4,1,4,ug/m3 LC,22,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,"J15.9 (Bacterial pneumonia, unspecified)",79,"5,446,345",1.5,1,2.1,ug/m3 LC,12,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,"J18.0 (Bronchopneumonia, unspecified)",20,"5,446,345",0.4,1,6.6,ug/m3 LC,37,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,"J18.1 (Lobar pneumonia, unspecified)",79,"5,446,345",1.5,1,2.2,ug/m3 LC,12,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,"J18.9 (Pneumonia, unspecified)",909,"5,446,345",16.7,1,1.7,ug/m3 LC,9,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,"J43.9 (Emphysema, unspecified)",115,"5,446,345",2.1,1,12.4,ug/m3 LC,57,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),314,"5,446,345",5.8,1,5.1,ug/m3 LC,28,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",101,"5,446,345",1.9,1,6.8,ug/m3 LC,38,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,"J44.9 (Chronic obstructive pulmonary disease, unspecified)","1,536","5,446,345",28.2,1,4.5,ug/m3 LC,25,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,"J45.9 (Asthma, unspecified)",30,"5,446,345",0.6,1,6.5,ug/m3 LC,36,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,J69.0 (Pneumonitis due to food and vomit),230,"5,446,345",4.2,1,4.9,ug/m3 LC,27,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,J80 (Adult respiratory distress syndrome),29,"5,446,345",0.5,1,12,ug/m3 LC,56,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,J84.1 (Other interstitial pulmonary diseases with fibrosis),203,"5,446,345",3.7,1,4.3,ug/m3 LC,24,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,"J84.9 (Interstitial pulmonary disease, unspecified)",92,"5,446,345",1.7,1,2.4,ug/m3 LC,13,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,"J90 (Pleural effusion, not elsewhere classified)",39,"5,446,345",0.7,1,7.7,ug/m3 LC,43,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,J96.0 (Acute respiratory failure),68,"5,446,345",1.2,1,7.7,ug/m3 LC,43,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,J96.1 (Chronic respiratory failure),57,"5,446,345",1,1,7.4,ug/m3 LC,41,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,"J96.9 (Respiratory failure, unspecified)",128,"5,446,345",2.4,1,3.4,ug/m3 LC,19,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2018,J98.4 (Other disorders of lung),54,"5,446,345",1,1,7,ug/m3 LC,39,PM2.5 - Local Conditions
+New York (36),Medium Metro,2018,"J10.1 (Influenza with other respiratory manifestations, influenza virus identified)",20,"1,825,081",1.1,1,15.9,ug/m3 LC,64,PM2.5 - Local Conditions
+New York (36),Medium Metro,2018,"J15.9 (Bacterial pneumonia, unspecified)",31,"1,825,081",1.7,1,9.3,ug/m3 LC,51,PM2.5 - Local Conditions
+New York (36),Medium Metro,2018,"J18.9 (Pneumonia, unspecified)",332,"1,825,081",18.2,1,9.7,ug/m3 LC,52,PM2.5 - Local Conditions
+New York (36),Medium Metro,2018,"J43.9 (Emphysema, unspecified)",56,"1,825,081",3.1,1,13.5,ug/m3 LC,59,PM2.5 - Local Conditions
+New York (36),Medium Metro,2018,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),168,"1,825,081",9.2,1,6,ug/m3 LC,33,PM2.5 - Local Conditions
+New York (36),Medium Metro,2018,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",38,"1,825,081",2.1,1,4.3,ug/m3 LC,24,PM2.5 - Local Conditions
+New York (36),Medium Metro,2018,"J44.9 (Chronic obstructive pulmonary disease, unspecified)",739,"1,825,081",40.5,1,4.9,ug/m3 LC,27,PM2.5 - Local Conditions
+New York (36),Medium Metro,2018,J69.0 (Pneumonitis due to food and vomit),132,"1,825,081",7.2,1,8.7,ug/m3 LC,48,PM2.5 - Local Conditions
+New York (36),Medium Metro,2018,J84.1 (Other interstitial pulmonary diseases with fibrosis),104,"1,825,081",5.7,1,4.5,ug/m3 LC,25,PM2.5 - Local Conditions
+New York (36),Medium Metro,2018,"J84.9 (Interstitial pulmonary disease, unspecified)",29,"1,825,081",1.6,1,13.3,ug/m3 LC,59,PM2.5 - Local Conditions
+New York (36),Medium Metro,2018,J96.0 (Acute respiratory failure),23,"1,825,081",1.3,1,4.8,ug/m3 LC,27,PM2.5 - Local Conditions
+New York (36),Medium Metro,2018,J96.1 (Chronic respiratory failure),29,"1,825,081",1.6,1,12.6,ug/m3 LC,58,PM2.5 - Local Conditions
+New York (36),Medium Metro,2018,"J96.9 (Respiratory failure, unspecified)",59,"1,825,081",3.2,1,6.2,ug/m3 LC,34,PM2.5 - Local Conditions
+New York (36),Medium Metro,2018,J98.4 (Other disorders of lung),21,"1,825,081",1.2,1,5.8,ug/m3 LC,32,PM2.5 - Local Conditions
+New York (36),Small Metro,2018,"J18.9 (Pneumonia, unspecified)",142,"843,082",16.8,1,16.5,ug/m3 LC,65,PM2.5 - Local Conditions
+New York (36),Small Metro,2018,"J43.9 (Emphysema, unspecified)",28,"843,082",3.3,1,4.9,ug/m3 LC,27,PM2.5 - Local Conditions
+New York (36),Small Metro,2018,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),87,"843,082",10.3,1,7.5,ug/m3 LC,42,PM2.5 - Local Conditions
+New York (36),Small Metro,2018,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",23,"843,082",2.7,1,8.8,ug/m3 LC,49,PM2.5 - Local Conditions
+New York (36),Small Metro,2018,"J44.9 (Chronic obstructive pulmonary disease, unspecified)",411,"843,082",48.7,1,4.3,ug/m3 LC,24,PM2.5 - Local Conditions
+New York (36),Small Metro,2018,J69.0 (Pneumonitis due to food and vomit),41,"843,082",4.9,1,4.2,ug/m3 LC,23,PM2.5 - Local Conditions
+New York (36),Small Metro,2018,J84.1 (Other interstitial pulmonary diseases with fibrosis),56,"843,082",6.6,1,6.3,ug/m3 LC,35,PM2.5 - Local Conditions
+New York (36),Small Metro,2018,"J96.9 (Respiratory failure, unspecified)",33,"843,082",3.9,1,9,ug/m3 LC,50,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2018,"J15.9 (Bacterial pneumonia, unspecified)",32,"979,100",3.3,1,6.1,ug/m3 LC,34,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2018,"J18.9 (Pneumonia, unspecified)",201,"979,100",20.5,1,5,ug/m3 LC,28,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2018,"J43.9 (Emphysema, unspecified)",35,"979,100",3.6,1,5.4,ug/m3 LC,30,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2018,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),95,"979,100",9.7,1,4.2,ug/m3 LC,23,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2018,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",37,"979,100",3.8,1,3,ug/m3 LC,17,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2018,"J44.9 (Chronic obstructive pulmonary disease, unspecified)",505,"979,100",51.6,1,6.1,ug/m3 LC,34,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2018,J69.0 (Pneumonitis due to food and vomit),65,"979,100",6.6,1,5.1,ug/m3 LC,28,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2018,J84.1 (Other interstitial pulmonary diseases with fibrosis),56,"979,100",5.7,1,2.7,ug/m3 LC,15,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2018,"J84.9 (Interstitial pulmonary disease, unspecified)",22,"979,100",2.2,1,5.8,ug/m3 LC,32,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2018,J96.1 (Chronic respiratory failure),21,"979,100",2.1,1,3.7,ug/m3 LC,21,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2018,"J96.9 (Respiratory failure, unspecified)",43,"979,100",4.4,1,13.3,ug/m3 LC,59,PM2.5 - Local Conditions
+New York (36),NonCore (Nonmetro),2018,"J18.9 (Pneumonia, unspecified)",79,"387,660",20.4,1,17.3,ug/m3 LC,66,PM2.5 - Local Conditions
+New York (36),NonCore (Nonmetro),2018,"J43.9 (Emphysema, unspecified)",21,"387,660",5.4,1,0.7,ug/m3 LC,4,PM2.5 - Local Conditions
+New York (36),NonCore (Nonmetro),2018,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),44,"387,660",11.4,1,10,ug/m3 LC,53,PM2.5 - Local Conditions
+New York (36),NonCore (Nonmetro),2018,"J44.9 (Chronic obstructive pulmonary disease, unspecified)",232,"387,660",59.8,1,2.7,ug/m3 LC,15,PM2.5 - Local Conditions
+New York (36),NonCore (Nonmetro),2018,J69.0 (Pneumonitis due to food and vomit),27,"387,660",7,1,7.1,ug/m3 LC,39,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,"J10.0 (Influenza with pneumonia, influenza virus identified)",41,"9,997,289",0.4,3,6.5,ug/m3 LC,36,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,"J10.1 (Influenza with other respiratory manifestations, influenza virus identified)",50,"9,997,289",0.5,3,6.1,ug/m3 LC,34,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,"J11.0 (Influenza with pneumonia, virus not identified)",43,"9,997,289",0.4,3,6.8,ug/m3 LC,38,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,"J11.1 (Influenza with other respiratory manifestations, virus not identified)",34,"9,997,289",0.3,3,9.3,ug/m3 LC,51,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,J15.2 (Pneumonia due to staphylococcus),40,"9,997,289",0.4,3,6.5,ug/m3 LC,36,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,"J15.9 (Bacterial pneumonia, unspecified)",268,"9,997,289",2.7,3,5.5,ug/m3 LC,31,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,"J18.0 (Bronchopneumonia, unspecified)",38,"9,997,289",0.4,3,5.1,ug/m3 LC,28,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,"J18.1 (Lobar pneumonia, unspecified)",360,"9,997,289",3.6,3,5.3,ug/m3 LC,29,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,"J18.9 (Pneumonia, unspecified)","1,148","9,997,289",11.5,3,4.5,ug/m3 LC,25,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,"J43.9 (Emphysema, unspecified)",111,"9,997,289",1.1,3,5.1,ug/m3 LC,28,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),401,"9,997,289",4,3,4,ug/m3 LC,22,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",105,"9,997,289",1.1,3,7.3,ug/m3 LC,41,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,J44.8 (Other specified chronic obstructive pulmonary disease),24,"9,997,289",0.2,3,6.3,ug/m3 LC,35,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,"J44.9 (Chronic obstructive pulmonary disease, unspecified)","1,709","9,997,289",17.1,3,4.3,ug/m3 LC,24,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,"J45.9 (Asthma, unspecified)",164,"9,997,289",1.6,3,6.1,ug/m3 LC,34,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,J47 (Bronchiectasis),32,"9,997,289",0.3,3,3.7,ug/m3 LC,21,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,J69.0 (Pneumonitis due to food and vomit),210,"9,997,289",2.1,3,5.8,ug/m3 LC,32,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,J80 (Adult respiratory distress syndrome),37,"9,997,289",0.4,3,6.4,ug/m3 LC,36,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,J84.1 (Other interstitial pulmonary diseases with fibrosis),238,"9,997,289",2.4,3,4.6,ug/m3 LC,26,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,"J84.9 (Interstitial pulmonary disease, unspecified)",198,"9,997,289",2,3,5.5,ug/m3 LC,31,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,"J90 (Pleural effusion, not elsewhere classified)",50,"9,997,289",0.5,3,5.6,ug/m3 LC,31,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,J96.0 (Acute respiratory failure),46,"9,997,289",0.5,3,4.5,ug/m3 LC,25,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,J96.1 (Chronic respiratory failure),47,"9,997,289",0.5,3,4.9,ug/m3 LC,27,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,"J96.9 (Respiratory failure, unspecified)",95,"9,997,289",1,3,5.5,ug/m3 LC,31,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2019,J98.4 (Other disorders of lung),72,"9,997,289",0.7,3,7.4,ug/m3 LC,41,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2019,"J10.1 (Influenza with other respiratory manifestations, influenza virus identified)",20,"5,441,453",0.4,3,10.7,ug/m3 LC,54,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2019,"J15.9 (Bacterial pneumonia, unspecified)",133,"5,441,453",2.4,3,7,ug/m3 LC,39,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2019,"J18.1 (Lobar pneumonia, unspecified)",60,"5,441,453",1.1,3,6.1,ug/m3 LC,34,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2019,"J18.9 (Pneumonia, unspecified)",797,"5,441,453",14.6,3,6.9,ug/m3 LC,38,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2019,"J43.9 (Emphysema, unspecified)",132,"5,441,453",2.4,3,3.7,ug/m3 LC,21,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2019,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),297,"5,441,453",5.5,3,4.3,ug/m3 LC,24,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2019,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",117,"5,441,453",2.2,3,6.3,ug/m3 LC,35,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2019,J44.8 (Other specified chronic obstructive pulmonary disease),20,"5,441,453",0.4,3,4.1,ug/m3 LC,23,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2019,"J44.9 (Chronic obstructive pulmonary disease, unspecified)","1,458","5,441,453",26.8,3,3.2,ug/m3 LC,18,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2019,"J45.9 (Asthma, unspecified)",64,"5,441,453",1.2,3,2.3,ug/m3 LC,13,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2019,J69.0 (Pneumonitis due to food and vomit),189,"5,441,453",3.5,3,4.4,ug/m3 LC,24,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2019,J80 (Adult respiratory distress syndrome),31,"5,441,453",0.6,3,4.6,ug/m3 LC,26,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2019,J84.1 (Other interstitial pulmonary diseases with fibrosis),191,"5,441,453",3.5,3,5.5,ug/m3 LC,31,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2019,"J84.9 (Interstitial pulmonary disease, unspecified)",107,"5,441,453",2,3,7.7,ug/m3 LC,43,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2019,"J90 (Pleural effusion, not elsewhere classified)",43,"5,441,453",0.8,3,5.7,ug/m3 LC,32,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2019,J96.0 (Acute respiratory failure),121,"5,441,453",2.2,3,5.3,ug/m3 LC,29,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2019,J96.1 (Chronic respiratory failure),61,"5,441,453",1.1,3,5.3,ug/m3 LC,29,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2019,"J96.9 (Respiratory failure, unspecified)",135,"5,441,453",2.5,3,7.9,ug/m3 LC,44,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2019,J98.4 (Other disorders of lung),49,"5,441,453",0.9,3,7.3,ug/m3 LC,41,PM2.5 - Local Conditions
+New York (36),Medium Metro,2019,"J15.9 (Bacterial pneumonia, unspecified)",56,"1,818,964",3.1,3,13.5,ug/m3 LC,59,PM2.5 - Local Conditions
+New York (36),Medium Metro,2019,"J18.9 (Pneumonia, unspecified)",368,"1,818,964",20.2,3,4.9,ug/m3 LC,27,PM2.5 - Local Conditions
+New York (36),Medium Metro,2019,"J43.9 (Emphysema, unspecified)",53,"1,818,964",2.9,3,6.4,ug/m3 LC,36,PM2.5 - Local Conditions
+New York (36),Medium Metro,2019,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),146,"1,818,964",8,3,8.4,ug/m3 LC,47,PM2.5 - Local Conditions
+New York (36),Medium Metro,2019,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",54,"1,818,964",3,3,8.6,ug/m3 LC,48,PM2.5 - Local Conditions
+New York (36),Medium Metro,2019,"J44.9 (Chronic obstructive pulmonary disease, unspecified)",664,"1,818,964",36.5,3,4.3,ug/m3 LC,24,PM2.5 - Local Conditions
+New York (36),Medium Metro,2019,J69.0 (Pneumonitis due to food and vomit),106,"1,818,964",5.8,3,2.8,ug/m3 LC,16,PM2.5 - Local Conditions
+New York (36),Medium Metro,2019,J84.1 (Other interstitial pulmonary diseases with fibrosis),103,"1,818,964",5.7,3,5.3,ug/m3 LC,29,PM2.5 - Local Conditions
+New York (36),Medium Metro,2019,"J84.9 (Interstitial pulmonary disease, unspecified)",35,"1,818,964",1.9,3,3.8,ug/m3 LC,21,PM2.5 - Local Conditions
+New York (36),Medium Metro,2019,J96.0 (Acute respiratory failure),38,"1,818,964",2.1,3,6.3,ug/m3 LC,35,PM2.5 - Local Conditions
+New York (36),Medium Metro,2019,J96.1 (Chronic respiratory failure),37,"1,818,964",2,3,7.1,ug/m3 LC,39,PM2.5 - Local Conditions
+New York (36),Medium Metro,2019,"J96.9 (Respiratory failure, unspecified)",60,"1,818,964",3.3,3,6.6,ug/m3 LC,37,PM2.5 - Local Conditions
+New York (36),Medium Metro,2019,J98.4 (Other disorders of lung),25,"1,818,964",1.4,3,6.4,ug/m3 LC,36,PM2.5 - Local Conditions
+New York (36),Small Metro,2019,"J15.9 (Bacterial pneumonia, unspecified)",20,"836,882",2.4,3,8.3,ug/m3 LC,46,PM2.5 - Local Conditions
+New York (36),Small Metro,2019,"J18.9 (Pneumonia, unspecified)",136,"836,882",16.3,3,8.4,ug/m3 LC,47,PM2.5 - Local Conditions
+New York (36),Small Metro,2019,"J43.9 (Emphysema, unspecified)",28,"836,882",3.3,3,2.6,ug/m3 LC,14,PM2.5 - Local Conditions
+New York (36),Small Metro,2019,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),87,"836,882",10.4,3,4.1,ug/m3 LC,23,PM2.5 - Local Conditions
+New York (36),Small Metro,2019,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",23,"836,882",2.7,3,7.5,ug/m3 LC,42,PM2.5 - Local Conditions
+New York (36),Small Metro,2019,"J44.9 (Chronic obstructive pulmonary disease, unspecified)",379,"836,882",45.3,3,8.4,ug/m3 LC,47,PM2.5 - Local Conditions
+New York (36),Small Metro,2019,J69.0 (Pneumonitis due to food and vomit),33,"836,882",3.9,3,4.9,ug/m3 LC,27,PM2.5 - Local Conditions
+New York (36),Small Metro,2019,J84.1 (Other interstitial pulmonary diseases with fibrosis),54,"836,882",6.5,3,3.3,ug/m3 LC,18,PM2.5 - Local Conditions
+New York (36),Small Metro,2019,J96.0 (Acute respiratory failure),25,"836,882",3,3,12.5,ug/m3 LC,57,PM2.5 - Local Conditions
+New York (36),Small Metro,2019,"J96.9 (Respiratory failure, unspecified)",61,"836,882",7.3,3,6.2,ug/m3 LC,34,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2019,"J15.9 (Bacterial pneumonia, unspecified)",25,"973,657",2.6,3,6.7,ug/m3 LC,37,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2019,"J18.9 (Pneumonia, unspecified)",184,"973,657",18.9,3,9.3,ug/m3 LC,51,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2019,"J43.9 (Emphysema, unspecified)",29,"973,657",3,3,13.6,ug/m3 LC,59,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2019,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),101,"973,657",10.4,3,13.8,ug/m3 LC,60,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2019,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",42,"973,657",4.3,3,9,ug/m3 LC,50,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2019,"J44.9 (Chronic obstructive pulmonary disease, unspecified)",500,"973,657",51.4,3,4.5,ug/m3 LC,25,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2019,J69.0 (Pneumonitis due to food and vomit),50,"973,657",5.1,3,10.1,ug/m3 LC,53,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2019,J84.1 (Other interstitial pulmonary diseases with fibrosis),68,"973,657",7,3,19.4,ug/m3 LC,70,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2019,J96.0 (Acute respiratory failure),20,"973,657",2.1,3,2.6,ug/m3 LC,14,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2019,J96.1 (Chronic respiratory failure),27,"973,657",2.8,3,1.8,ug/m3 LC,10,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2019,"J96.9 (Respiratory failure, unspecified)",42,"973,657",4.3,3,4.9,ug/m3 LC,27,PM2.5 - Local Conditions
+New York (36),NonCore (Nonmetro),2019,"J18.9 (Pneumonia, unspecified)",66,"385,316",17.1,3,5,ug/m3 LC,28,PM2.5 - Local Conditions
+New York (36),NonCore (Nonmetro),2019,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),32,"385,316",8.3,3,8,ug/m3 LC,44,PM2.5 - Local Conditions
+New York (36),NonCore (Nonmetro),2019,"J44.9 (Chronic obstructive pulmonary disease, unspecified)",187,"385,316",48.5,3,7.6,ug/m3 LC,42,PM2.5 - Local Conditions
+New York (36),NonCore (Nonmetro),2019,J84.1 (Other interstitial pulmonary diseases with fibrosis),22,"385,316",5.7,3,9.6,ug/m3 LC,52,PM2.5 - Local Conditions
+New York (36),NonCore (Nonmetro),2019,"J96.9 (Respiratory failure, unspecified)",21,"385,316",5.5,3,8.3,ug/m3 LC,46,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2020,"J10.0 (Influenza with pneumonia, influenza virus identified)",36,"9,911,354",0.4,3,4.2,ug/m3 LC,23,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,"J10.1 (Influenza with other respiratory manifestations, influenza virus identified)",54,"9,911,354",0.5,3,4.4,ug/m3 LC,24,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,"J11.0 (Influenza with pneumonia, virus not identified)",34,"9,911,354",0.3,3,4.2,ug/m3 LC,23,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,"J11.1 (Influenza with other respiratory manifestations, virus not identified)",51,"9,911,354",0.5,3,6.2,ug/m3 LC,34,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,J12.8 (Other viral pneumonia),83,"9,911,354",0.8,3,6.8,ug/m3 LC,38,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,"J12.9 (Viral pneumonia, unspecified)",143,"9,911,354",1.4,3,2.6,ug/m3 LC,14,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,J15.1 (Pneumonia due to Pseudomonas),22,"9,911,354",0.2,3,4.2,ug/m3 LC,23,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,J15.2 (Pneumonia due to staphylococcus),33,"9,911,354",0.3,3,4.6,ug/m3 LC,26,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,"J15.9 (Bacterial pneumonia, unspecified)",274,"9,911,354",2.8,3,4.1,ug/m3 LC,23,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,"J18.0 (Bronchopneumonia, unspecified)",21,"9,911,354",0.2,3,4.1,ug/m3 LC,23,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,"J18.1 (Lobar pneumonia, unspecified)",350,"9,911,354",3.5,3,3.4,ug/m3 LC,19,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,"J18.9 (Pneumonia, unspecified)","1,385","9,911,354",14,3,5.1,ug/m3 LC,28,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,"J43.9 (Emphysema, unspecified)",95,"9,911,354",1,3,1.7,ug/m3 LC,9,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),412,"9,911,354",4.2,3,3,ug/m3 LC,17,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",95,"9,911,354",1,3,4.8,ug/m3 LC,27,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,J44.8 (Other specified chronic obstructive pulmonary disease),37,"9,911,354",0.4,3,7.3,ug/m3 LC,41,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,"J44.9 (Chronic obstructive pulmonary disease, unspecified)","1,551","9,911,354",15.6,3,2.5,ug/m3 LC,14,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,"J45.9 (Asthma, unspecified)",200,"9,911,354",2,3,1.7,ug/m3 LC,9,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,J46 (Status asthmaticus),21,"9,911,354",0.2,3,2.9,ug/m3 LC,16,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,J69.0 (Pneumonitis due to food and vomit),279,"9,911,354",2.8,3,1.2,ug/m3 LC,7,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,J80 (Adult respiratory distress syndrome),53,"9,911,354",0.5,3,3.4,ug/m3 LC,19,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,J84.1 (Other interstitial pulmonary diseases with fibrosis),219,"9,911,354",2.2,3,2.6,ug/m3 LC,14,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,"J84.9 (Interstitial pulmonary disease, unspecified)",198,"9,911,354",2,3,3.3,ug/m3 LC,18,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,"J90 (Pleural effusion, not elsewhere classified)",54,"9,911,354",0.5,3,5.7,ug/m3 LC,32,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,J96.0 (Acute respiratory failure),96,"9,911,354",1,3,4.2,ug/m3 LC,23,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,J96.1 (Chronic respiratory failure),68,"9,911,354",0.7,3,4.5,ug/m3 LC,25,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,"J96.9 (Respiratory failure, unspecified)",154,"9,911,354",1.6,3,3.7,ug/m3 LC,21,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,J98.4 (Other disorders of lung),68,"9,911,354",0.7,3,4,ug/m3 LC,22,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,J98.8 (Other specified respiratory disorders),46,"9,911,354",0.5,3,3.2,ug/m3 LC,18,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2020,"J98.9 (Respiratory disorder, unspecified)",122,"9,911,354",1.2,3,4.4,ug/m3 LC,24,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,"J10.1 (Influenza with other respiratory manifestations, influenza virus identified)",35,"5,429,675",0.6,3,7,ug/m3 LC,39,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,"J11.0 (Influenza with pneumonia, virus not identified)",24,"5,429,675",0.4,3,6.4,ug/m3 LC,36,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,J12.8 (Other viral pneumonia),42,"5,429,675",0.8,3,10.6,ug/m3 LC,54,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,"J12.9 (Viral pneumonia, unspecified)",59,"5,429,675",1.1,3,5.8,ug/m3 LC,32,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,"J15.9 (Bacterial pneumonia, unspecified)",152,"5,429,675",2.8,3,3.4,ug/m3 LC,19,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,"J18.0 (Bronchopneumonia, unspecified)",26,"5,429,675",0.5,3,2.1,ug/m3 LC,12,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,"J18.1 (Lobar pneumonia, unspecified)",60,"5,429,675",1.1,3,1.3,ug/m3 LC,7,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,"J18.9 (Pneumonia, unspecified)",826,"5,429,675",15.2,3,2.4,ug/m3 LC,13,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,"J43.9 (Emphysema, unspecified)",131,"5,429,675",2.4,3,5.3,ug/m3 LC,29,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),289,"5,429,675",5.3,3,8.9,ug/m3 LC,49,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",75,"5,429,675",1.4,3,7.5,ug/m3 LC,42,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,J44.8 (Other specified chronic obstructive pulmonary disease),20,"5,429,675",0.4,3,7.8,ug/m3 LC,43,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,"J44.9 (Chronic obstructive pulmonary disease, unspecified)","1,322","5,429,675",24.3,3,5.3,ug/m3 LC,29,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,"J45.9 (Asthma, unspecified)",48,"5,429,675",0.9,3,2.8,ug/m3 LC,16,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,J47 (Bronchiectasis),26,"5,429,675",0.5,3,4,ug/m3 LC,22,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,J69.0 (Pneumonitis due to food and vomit),149,"5,429,675",2.7,3,1.6,ug/m3 LC,9,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,J80 (Adult respiratory distress syndrome),32,"5,429,675",0.6,3,2.8,ug/m3 LC,16,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,J84.1 (Other interstitial pulmonary diseases with fibrosis),205,"5,429,675",3.8,3,3.3,ug/m3 LC,18,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,"J84.9 (Interstitial pulmonary disease, unspecified)",98,"5,429,675",1.8,3,5,ug/m3 LC,28,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,"J90 (Pleural effusion, not elsewhere classified)",32,"5,429,675",0.6,3,5.9,ug/m3 LC,33,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,J96.0 (Acute respiratory failure),138,"5,429,675",2.5,3,3.3,ug/m3 LC,18,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,J96.1 (Chronic respiratory failure),58,"5,429,675",1.1,3,5.4,ug/m3 LC,30,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,"J96.9 (Respiratory failure, unspecified)",143,"5,429,675",2.6,3,7.6,ug/m3 LC,42,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,J98.4 (Other disorders of lung),51,"5,429,675",0.9,3,9.3,ug/m3 LC,51,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Fringe Metro,2020,"J98.9 (Respiratory disorder, unspecified)",26,"5,429,675",0.5,3,1.8,ug/m3 LC,10,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Medium Metro,2020,"J10.1 (Influenza with other respiratory manifestations, influenza virus identified)",23,"1,812,879",1.3,3,3.6,ug/m3 LC,20,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Medium Metro,2020,"J15.9 (Bacterial pneumonia, unspecified)",42,"1,812,879",2.3,3,4.5,ug/m3 LC,25,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Medium Metro,2020,"J18.9 (Pneumonia, unspecified)",303,"1,812,879",16.7,3,6.3,ug/m3 LC,35,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Medium Metro,2020,"J43.9 (Emphysema, unspecified)",44,"1,812,879",2.4,3,6.2,ug/m3 LC,34,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Medium Metro,2020,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),145,"1,812,879",8,3,5.6,ug/m3 LC,31,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Medium Metro,2020,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",44,"1,812,879",2.4,3,4.1,ug/m3 LC,23,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Medium Metro,2020,"J44.9 (Chronic obstructive pulmonary disease, unspecified)",659,"1,812,879",36.4,3,9.8,ug/m3 LC,52,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Medium Metro,2020,"J45.9 (Asthma, unspecified)",21,"1,812,879",1.2,3,8.8,ug/m3 LC,49,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Medium Metro,2020,J69.0 (Pneumonitis due to food and vomit),110,"1,812,879",6.1,3,7.5,ug/m3 LC,42,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Medium Metro,2020,J84.1 (Other interstitial pulmonary diseases with fibrosis),120,"1,812,879",6.6,3,10.7,ug/m3 LC,54,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Medium Metro,2020,"J84.9 (Interstitial pulmonary disease, unspecified)",33,"1,812,879",1.8,3,10.5,ug/m3 LC,54,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Medium Metro,2020,J96.0 (Acute respiratory failure),34,"1,812,879",1.9,3,6.5,ug/m3 LC,36,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Medium Metro,2020,J96.1 (Chronic respiratory failure),34,"1,812,879",1.9,3,4.3,ug/m3 LC,24,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Medium Metro,2020,"J96.9 (Respiratory failure, unspecified)",59,"1,812,879",3.3,3,2.6,ug/m3 LC,14,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Medium Metro,2020,J98.4 (Other disorders of lung),22,"1,812,879",1.2,3,2,ug/m3 LC,11,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Small Metro,2020,"J18.9 (Pneumonia, unspecified)",115,"831,177",13.8,3,4.4,ug/m3 LC,24,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Small Metro,2020,"J43.9 (Emphysema, unspecified)",29,"831,177",3.5,3,8,ug/m3 LC,44,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Small Metro,2020,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),70,"831,177",8.4,3,6.6,ug/m3 LC,37,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Small Metro,2020,"J44.9 (Chronic obstructive pulmonary disease, unspecified)",313,"831,177",37.7,3,6.5,ug/m3 LC,36,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Small Metro,2020,J69.0 (Pneumonitis due to food and vomit),32,"831,177",3.8,3,3.6,ug/m3 LC,20,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Small Metro,2020,J84.1 (Other interstitial pulmonary diseases with fibrosis),42,"831,177",5.1,3,2.6,ug/m3 LC,14,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Small Metro,2020,J96.0 (Acute respiratory failure),31,"831,177",3.7,3,4.7,ug/m3 LC,26,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Small Metro,2020,"J96.9 (Respiratory failure, unspecified)",35,"831,177",4.2,3,6.7,ug/m3 LC,37,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Micropolitan (Nonmetro),2020,"J15.9 (Bacterial pneumonia, unspecified)",27,"967,884",2.8,3,7.9,ug/m3 LC,44,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Micropolitan (Nonmetro),2020,"J18.9 (Pneumonia, unspecified)",152,"967,884",15.7,3,3.5,ug/m3 LC,19,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Micropolitan (Nonmetro),2020,"J43.9 (Emphysema, unspecified)",27,"967,884",2.8,3,6.3,ug/m3 LC,35,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Micropolitan (Nonmetro),2020,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),83,"967,884",8.6,3,4.9,ug/m3 LC,27,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Micropolitan (Nonmetro),2020,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",27,"967,884",2.8,3,8.8,ug/m3 LC,49,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Micropolitan (Nonmetro),2020,"J44.9 (Chronic obstructive pulmonary disease, unspecified)",450,"967,884",46.5,3,10.5,ug/m3 LC,54,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Micropolitan (Nonmetro),2020,J69.0 (Pneumonitis due to food and vomit),50,"967,884",5.2,3,4.6,ug/m3 LC,26,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Micropolitan (Nonmetro),2020,J84.1 (Other interstitial pulmonary diseases with fibrosis),56,"967,884",5.8,3,4.4,ug/m3 LC,24,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Micropolitan (Nonmetro),2020,"J84.9 (Interstitial pulmonary disease, unspecified)",23,"967,884",2.4,3,1.9,ug/m3 LC,11,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Micropolitan (Nonmetro),2020,J96.0 (Acute respiratory failure),30,"967,884",3.1,3,3.3,ug/m3 LC,18,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Micropolitan (Nonmetro),2020,"J96.9 (Respiratory failure, unspecified)",63,"967,884",6.5,3,7,ug/m3 LC,39,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),NonCore (Nonmetro),2020,"J18.9 (Pneumonia, unspecified)",80,"383,807",20.8,3,7.3,ug/m3 LC,41,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),NonCore (Nonmetro),2020,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),40,"383,807",10.4,3,9.7,ug/m3 LC,52,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),NonCore (Nonmetro),2020,"J44.9 (Chronic obstructive pulmonary disease, unspecified)",202,"383,807",52.6,3,7.6,ug/m3 LC,42,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),NonCore (Nonmetro),2020,J84.1 (Other interstitial pulmonary diseases with fibrosis),21,"383,807",5.5,3,5.6,ug/m3 LC,31,Acceptable PM2.5 AQI & Speciation Mass
+New York (36),Large Central Metro,2021,"J12.9 (Viral pneumonia, unspecified)",25,"10,173,356",0.2,1,4.9,ug/m3 LC,27,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,J15.1 (Pneumonia due to Pseudomonas),28,"10,173,356",0.3,1,9.7,ug/m3 LC,52,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,J15.2 (Pneumonia due to staphylococcus),26,"10,173,356",0.3,1,4.5,ug/m3 LC,25,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,"J15.9 (Bacterial pneumonia, unspecified)",245,"10,173,356",2.4,1,23.5,ug/m3 LC,78,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,"J18.0 (Bronchopneumonia, unspecified)",22,"10,173,356",0.2,1,8.8,ug/m3 LC,49,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,"J18.1 (Lobar pneumonia, unspecified)",310,"10,173,356",3,1,25,ug/m3 LC,81,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,"J18.9 (Pneumonia, unspecified)","1,225","10,173,356",12,1,8.2,ug/m3 LC,46,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,"J43.9 (Emphysema, unspecified)",99,"10,173,356",1,1,6,ug/m3 LC,33,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),310,"10,173,356",3,1,7.2,ug/m3 LC,40,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",86,"10,173,356",0.8,1,8.5,ug/m3 LC,47,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,J44.8 (Other specified chronic obstructive pulmonary disease),22,"10,173,356",0.2,1,12.5,ug/m3 LC,57,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,"J44.9 (Chronic obstructive pulmonary disease, unspecified)","1,383","10,173,356",13.6,1,7.9,ug/m3 LC,44,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,"J45.9 (Asthma, unspecified)",147,"10,173,356",1.4,1,5.6,ug/m3 LC,31,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,J47 (Bronchiectasis),25,"10,173,356",0.2,1,4.7,ug/m3 LC,26,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,J69.0 (Pneumonitis due to food and vomit),384,"10,173,356",3.8,1,5.5,ug/m3 LC,31,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,J80 (Adult respiratory distress syndrome),45,"10,173,356",0.4,1,18.1,ug/m3 LC,68,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,J81 (Pulmonary oedema),21,"10,173,356",0.2,1,5.7,ug/m3 LC,32,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,J84.1 (Other interstitial pulmonary diseases with fibrosis),204,"10,173,356",2,1,8.3,ug/m3 LC,46,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,"J84.9 (Interstitial pulmonary disease, unspecified)",205,"10,173,356",2,1,4.1,ug/m3 LC,23,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,"J90 (Pleural effusion, not elsewhere classified)",50,"10,173,356",0.5,1,3.8,ug/m3 LC,21,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,J96.0 (Acute respiratory failure),97,"10,173,356",1,1,4.9,ug/m3 LC,27,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,J96.1 (Chronic respiratory failure),75,"10,173,356",0.7,1,5,ug/m3 LC,28,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,"J96.9 (Respiratory failure, unspecified)",151,"10,173,356",1.5,1,9.7,ug/m3 LC,52,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2021,J98.4 (Other disorders of lung),57,"10,173,356",0.6,1,7,ug/m3 LC,39,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2021,"J15.9 (Bacterial pneumonia, unspecified)",183,"5,595,412",3.3,1,5.3,ug/m3 LC,29,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2021,"J18.1 (Lobar pneumonia, unspecified)",50,"5,595,412",0.9,1,6.6,ug/m3 LC,37,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2021,"J18.9 (Pneumonia, unspecified)",658,"5,595,412",11.8,1,3.1,ug/m3 LC,17,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2021,"J43.9 (Emphysema, unspecified)",119,"5,595,412",2.1,1,5.9,ug/m3 LC,33,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2021,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),229,"5,595,412",4.1,1,7.8,ug/m3 LC,43,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2021,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",89,"5,595,412",1.6,1,4.4,ug/m3 LC,24,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2021,"J44.9 (Chronic obstructive pulmonary disease, unspecified)","1,119","5,595,412",20,1,3.5,ug/m3 LC,19,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2021,"J45.9 (Asthma, unspecified)",26,"5,595,412",0.5,1,8.9,ug/m3 LC,49,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2021,J69.0 (Pneumonitis due to food and vomit),197,"5,595,412",3.5,1,5.2,ug/m3 LC,29,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2021,J80 (Adult respiratory distress syndrome),20,"5,595,412",0.4,1,3.3,ug/m3 LC,18,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2021,J84.1 (Other interstitial pulmonary diseases with fibrosis),208,"5,595,412",3.7,1,5.2,ug/m3 LC,29,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2021,"J84.9 (Interstitial pulmonary disease, unspecified)",134,"5,595,412",2.4,1,3.4,ug/m3 LC,19,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2021,"J90 (Pleural effusion, not elsewhere classified)",39,"5,595,412",0.7,1,8,ug/m3 LC,44,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2021,J96.0 (Acute respiratory failure),187,"5,595,412",3.3,1,10.5,ug/m3 LC,54,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2021,J96.1 (Chronic respiratory failure),71,"5,595,412",1.3,1,8.9,ug/m3 LC,49,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2021,"J96.9 (Respiratory failure, unspecified)",145,"5,595,412",2.6,1,2.7,ug/m3 LC,15,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2021,J98.4 (Other disorders of lung),41,"5,595,412",0.7,1,4.1,ug/m3 LC,23,PM2.5 - Local Conditions
+New York (36),Medium Metro,2021,"J15.9 (Bacterial pneumonia, unspecified)",48,"1,847,778",2.6,1,5,ug/m3 LC,28,PM2.5 - Local Conditions
+New York (36),Medium Metro,2021,"J18.9 (Pneumonia, unspecified)",298,"1,847,778",16.1,1,12.1,ug/m3 LC,57,PM2.5 - Local Conditions
+New York (36),Medium Metro,2021,"J43.9 (Emphysema, unspecified)",59,"1,847,778",3.2,1,10.2,ug/m3 LC,53,PM2.5 - Local Conditions
+New York (36),Medium Metro,2021,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),125,"1,847,778",6.8,1,3.8,ug/m3 LC,21,PM2.5 - Local Conditions
+New York (36),Medium Metro,2021,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",34,"1,847,778",1.8,1,15.5,ug/m3 LC,63,PM2.5 - Local Conditions
+New York (36),Medium Metro,2021,"J44.9 (Chronic obstructive pulmonary disease, unspecified)",621,"1,847,778",33.6,1,4.2,ug/m3 LC,23,PM2.5 - Local Conditions
+New York (36),Medium Metro,2021,"J45.9 (Asthma, unspecified)",31,"1,847,778",1.7,1,11.9,ug/m3 LC,56,PM2.5 - Local Conditions
+New York (36),Medium Metro,2021,J69.0 (Pneumonitis due to food and vomit),115,"1,847,778",6.2,1,3.5,ug/m3 LC,19,PM2.5 - Local Conditions
+New York (36),Medium Metro,2021,J84.1 (Other interstitial pulmonary diseases with fibrosis),97,"1,847,778",5.2,1,5.6,ug/m3 LC,31,PM2.5 - Local Conditions
+New York (36),Medium Metro,2021,"J84.9 (Interstitial pulmonary disease, unspecified)",27,"1,847,778",1.5,1,16.2,ug/m3 LC,64,PM2.5 - Local Conditions
+New York (36),Medium Metro,2021,J96.0 (Acute respiratory failure),36,"1,847,778",1.9,1,7.1,ug/m3 LC,39,PM2.5 - Local Conditions
+New York (36),Medium Metro,2021,J96.1 (Chronic respiratory failure),25,"1,847,778",1.4,1,1.6,ug/m3 LC,9,PM2.5 - Local Conditions
+New York (36),Medium Metro,2021,"J96.9 (Respiratory failure, unspecified)",58,"1,847,778",3.1,1,4.8,ug/m3 LC,27,PM2.5 - Local Conditions
+New York (36),Medium Metro,2021,J98.4 (Other disorders of lung),28,"1,847,778",1.5,1,2.2,ug/m3 LC,12,PM2.5 - Local Conditions
+New York (36),Small Metro,2021,"J15.9 (Bacterial pneumonia, unspecified)",20,"859,247",2.3,1,4.9,ug/m3 LC,27,PM2.5 - Local Conditions
+New York (36),Small Metro,2021,"J18.9 (Pneumonia, unspecified)",126,"859,247",14.7,1,2.2,ug/m3 LC,12,PM2.5 - Local Conditions
+New York (36),Small Metro,2021,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),54,"859,247",6.3,1,9.5,ug/m3 LC,52,PM2.5 - Local Conditions
+New York (36),Small Metro,2021,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",21,"859,247",2.4,1,5.2,ug/m3 LC,29,PM2.5 - Local Conditions
+New York (36),Small Metro,2021,"J44.9 (Chronic obstructive pulmonary disease, unspecified)",311,"859,247",36.2,1,9.4,ug/m3 LC,52,PM2.5 - Local Conditions
+New York (36),Small Metro,2021,J69.0 (Pneumonitis due to food and vomit),33,"859,247",3.8,1,6.5,ug/m3 LC,36,PM2.5 - Local Conditions
+New York (36),Small Metro,2021,J84.1 (Other interstitial pulmonary diseases with fibrosis),61,"859,247",7.1,1,16.2,ug/m3 LC,64,PM2.5 - Local Conditions
+New York (36),Small Metro,2021,J96.1 (Chronic respiratory failure),20,"859,247",2.3,1,2.3,ug/m3 LC,13,PM2.5 - Local Conditions
+New York (36),Small Metro,2021,"J96.9 (Respiratory failure, unspecified)",37,"859,247",4.3,1,1.7,ug/m3 LC,9,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2021,"J15.9 (Bacterial pneumonia, unspecified)",32,"967,591",3.3,1,7.5,ug/m3 LC,42,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2021,"J18.9 (Pneumonia, unspecified)",132,"967,591",13.6,1,13.1,ug/m3 LC,58,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2021,"J43.9 (Emphysema, unspecified)",27,"967,591",2.8,1,4.4,ug/m3 LC,24,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2021,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),81,"967,591",8.4,1,12.5,ug/m3 LC,57,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2021,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",34,"967,591",3.5,1,5.2,ug/m3 LC,29,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2021,"J44.9 (Chronic obstructive pulmonary disease, unspecified)",462,"967,591",47.7,1,4.6,ug/m3 LC,26,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2021,J69.0 (Pneumonitis due to food and vomit),30,"967,591",3.1,1,3,ug/m3 LC,17,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2021,J84.1 (Other interstitial pulmonary diseases with fibrosis),50,"967,591",5.2,1,2.6,ug/m3 LC,14,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2021,J96.0 (Acute respiratory failure),60,"967,591",6.2,1,5.2,ug/m3 LC,29,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2021,"J96.9 (Respiratory failure, unspecified)",101,"967,591",10.4,1,1.6,ug/m3 LC,9,PM2.5 - Local Conditions
+New York (36),NonCore (Nonmetro),2021,"J18.9 (Pneumonia, unspecified)",79,"392,529",20.1,1,7.9,ug/m3 LC,44,PM2.5 - Local Conditions
+New York (36),NonCore (Nonmetro),2021,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),32,"392,529",8.2,1,2.5,ug/m3 LC,14,PM2.5 - Local Conditions
+New York (36),NonCore (Nonmetro),2021,"J44.9 (Chronic obstructive pulmonary disease, unspecified)",183,"392,529",46.6,1,9.6,ug/m3 LC,52,PM2.5 - Local Conditions
+New York (36),NonCore (Nonmetro),2021,"J96.9 (Respiratory failure, unspecified)",22,"392,529",5.6,1,6.5,ug/m3 LC,36,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,"J10.0 (Influenza with pneumonia, influenza virus identified)",34,"10,038,244",0.3,1,7.6,ug/m3 LC,42,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,"J10.1 (Influenza with other respiratory manifestations, influenza virus identified)",59,"10,038,244",0.6,1,3.6,ug/m3 LC,20,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,"J11.0 (Influenza with pneumonia, virus not identified)",21,"10,038,244",0.2,1,4.9,ug/m3 LC,27,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,"J11.1 (Influenza with other respiratory manifestations, virus not identified)",37,"10,038,244",0.4,1,4.2,ug/m3 LC,23,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,J15.1 (Pneumonia due to Pseudomonas),24,"10,038,244",0.2,1,11.5,ug/m3 LC,55,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,J15.2 (Pneumonia due to staphylococcus),23,"10,038,244",0.2,1,8,ug/m3 LC,44,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,"J15.9 (Bacterial pneumonia, unspecified)",272,"10,038,244",2.7,1,2.4,ug/m3 LC,13,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,"J18.0 (Bronchopneumonia, unspecified)",28,"10,038,244",0.3,1,2.1,ug/m3 LC,12,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,"J18.1 (Lobar pneumonia, unspecified)",270,"10,038,244",2.7,1,4.5,ug/m3 LC,25,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,"J18.9 (Pneumonia, unspecified)","1,164","10,038,244",11.6,1,2.6,ug/m3 LC,14,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,"J43.9 (Emphysema, unspecified)",101,"10,038,244",1,1,5.4,ug/m3 LC,30,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),316,"10,038,244",3.1,1,1.9,ug/m3 LC,11,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",117,"10,038,244",1.2,1,6.5,ug/m3 LC,36,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,J44.8 (Other specified chronic obstructive pulmonary disease),23,"10,038,244",0.2,1,12.6,ug/m3 LC,58,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,"J44.9 (Chronic obstructive pulmonary disease, unspecified)","1,359","10,038,244",13.5,1,6.7,ug/m3 LC,37,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,"J45.9 (Asthma, unspecified)",149,"10,038,244",1.5,1,3,ug/m3 LC,17,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,J47 (Bronchiectasis),21,"10,038,244",0.2,1,1.5,ug/m3 LC,8,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,J69.0 (Pneumonitis due to food and vomit),434,"10,038,244",4.3,1,4.8,ug/m3 LC,27,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,J80 (Adult respiratory distress syndrome),37,"10,038,244",0.4,1,4.2,ug/m3 LC,23,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,J84.1 (Other interstitial pulmonary diseases with fibrosis),195,"10,038,244",1.9,1,4.3,ug/m3 LC,24,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,"J84.9 (Interstitial pulmonary disease, unspecified)",214,"10,038,244",2.1,1,2.8,ug/m3 LC,16,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,J86.9 (Pyothorax without fistula),22,"10,038,244",0.2,1,3.1,ug/m3 LC,17,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,"J90 (Pleural effusion, not elsewhere classified)",53,"10,038,244",0.5,1,3.5,ug/m3 LC,19,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,"J93.9 (Pneumothorax, unspecified)",27,"10,038,244",0.3,1,9.1,ug/m3 LC,51,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,J96.0 (Acute respiratory failure),169,"10,038,244",1.7,1,4.3,ug/m3 LC,24,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,J96.1 (Chronic respiratory failure),71,"10,038,244",0.7,1,4.6,ug/m3 LC,26,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,"J96.9 (Respiratory failure, unspecified)",183,"10,038,244",1.8,1,5.1,ug/m3 LC,28,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,J98.4 (Other disorders of lung),65,"10,038,244",0.6,1,3.5,ug/m3 LC,19,PM2.5 - Local Conditions
+New York (36),Large Central Metro,2022,"J98.9 (Respiratory disorder, unspecified)",24,"10,038,244",0.2,1,6.5,ug/m3 LC,36,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2022,"J10.0 (Influenza with pneumonia, influenza virus identified)",27,"5,580,168",0.5,1,5.4,ug/m3 LC,30,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2022,"J10.1 (Influenza with other respiratory manifestations, influenza virus identified)",40,"5,580,168",0.7,1,2,ug/m3 LC,11,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2022,"J15.9 (Bacterial pneumonia, unspecified)",195,"5,580,168",3.5,1,2.9,ug/m3 LC,16,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2022,"J18.1 (Lobar pneumonia, unspecified)",38,"5,580,168",0.7,1,5.4,ug/m3 LC,30,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2022,"J18.9 (Pneumonia, unspecified)",626,"5,580,168",11.2,1,4.2,ug/m3 LC,23,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2022,"J43.9 (Emphysema, unspecified)",139,"5,580,168",2.5,1,13.5,ug/m3 LC,59,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2022,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),216,"5,580,168",3.9,1,3.7,ug/m3 LC,21,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2022,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",90,"5,580,168",1.6,1,10.9,ug/m3 LC,54,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2022,"J44.9 (Chronic obstructive pulmonary disease, unspecified)","1,176","5,580,168",21.1,1,4,ug/m3 LC,22,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2022,"J45.9 (Asthma, unspecified)",46,"5,580,168",0.8,1,10.5,ug/m3 LC,54,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2022,J69.0 (Pneumonitis due to food and vomit),150,"5,580,168",2.7,1,5.1,ug/m3 LC,28,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2022,J80 (Adult respiratory distress syndrome),26,"5,580,168",0.5,1,3.9,ug/m3 LC,22,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2022,J84.1 (Other interstitial pulmonary diseases with fibrosis),187,"5,580,168",3.4,1,3.5,ug/m3 LC,19,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2022,"J84.9 (Interstitial pulmonary disease, unspecified)",116,"5,580,168",2.1,1,3.4,ug/m3 LC,19,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2022,"J90 (Pleural effusion, not elsewhere classified)",46,"5,580,168",0.8,1,6.1,ug/m3 LC,34,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2022,J96.0 (Acute respiratory failure),205,"5,580,168",3.7,1,13.7,ug/m3 LC,60,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2022,J96.1 (Chronic respiratory failure),77,"5,580,168",1.4,1,11.7,ug/m3 LC,56,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2022,"J96.9 (Respiratory failure, unspecified)",208,"5,580,168",3.7,1,2.5,ug/m3 LC,14,PM2.5 - Local Conditions
+New York (36),Large Fringe Metro,2022,J98.4 (Other disorders of lung),53,"5,580,168",0.9,1,2.2,ug/m3 LC,12,PM2.5 - Local Conditions
+New York (36),Medium Metro,2022,"J12.9 (Viral pneumonia, unspecified)",20,"1,846,918",1.1,1,2.9,ug/m3 LC,16,PM2.5 - Local Conditions
+New York (36),Medium Metro,2022,"J15.9 (Bacterial pneumonia, unspecified)",58,"1,846,918",3.1,1,5.2,ug/m3 LC,29,PM2.5 - Local Conditions
+New York (36),Medium Metro,2022,"J18.9 (Pneumonia, unspecified)",304,"1,846,918",16.5,1,3.2,ug/m3 LC,18,PM2.5 - Local Conditions
+New York (36),Medium Metro,2022,"J43.9 (Emphysema, unspecified)",55,"1,846,918",3,1,4.7,ug/m3 LC,26,PM2.5 - Local Conditions
+New York (36),Medium Metro,2022,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),140,"1,846,918",7.6,1,4.2,ug/m3 LC,23,PM2.5 - Local Conditions
+New York (36),Medium Metro,2022,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",52,"1,846,918",2.8,1,2,ug/m3 LC,11,PM2.5 - Local Conditions
+New York (36),Medium Metro,2022,"J44.9 (Chronic obstructive pulmonary disease, unspecified)",622,"1,846,918",33.7,1,3.8,ug/m3 LC,21,PM2.5 - Local Conditions
+New York (36),Medium Metro,2022,J69.0 (Pneumonitis due to food and vomit),111,"1,846,918",6,1,4.4,ug/m3 LC,24,PM2.5 - Local Conditions
+New York (36),Medium Metro,2022,J84.1 (Other interstitial pulmonary diseases with fibrosis),101,"1,846,918",5.5,1,3,ug/m3 LC,17,PM2.5 - Local Conditions
+New York (36),Medium Metro,2022,"J84.9 (Interstitial pulmonary disease, unspecified)",40,"1,846,918",2.2,1,4.6,ug/m3 LC,26,PM2.5 - Local Conditions
+New York (36),Medium Metro,2022,J96.0 (Acute respiratory failure),62,"1,846,918",3.4,1,2.5,ug/m3 LC,14,PM2.5 - Local Conditions
+New York (36),Medium Metro,2022,J96.1 (Chronic respiratory failure),38,"1,846,918",2.1,1,8.5,ug/m3 LC,47,PM2.5 - Local Conditions
+New York (36),Medium Metro,2022,"J96.9 (Respiratory failure, unspecified)",72,"1,846,918",3.9,1,6.1,ug/m3 LC,34,PM2.5 - Local Conditions
+New York (36),Medium Metro,2022,J98.4 (Other disorders of lung),25,"1,846,918",1.4,1,8.5,ug/m3 LC,47,PM2.5 - Local Conditions
+New York (36),Small Metro,2022,"J18.9 (Pneumonia, unspecified)",117,"856,488",13.7,1,8.5,ug/m3 LC,47,PM2.5 - Local Conditions
+New York (36),Small Metro,2022,"J43.9 (Emphysema, unspecified)",22,"856,488",2.6,1,4.4,ug/m3 LC,24,PM2.5 - Local Conditions
+New York (36),Small Metro,2022,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),56,"856,488",6.5,1,5.2,ug/m3 LC,29,PM2.5 - Local Conditions
+New York (36),Small Metro,2022,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",20,"856,488",2.3,1,23.4,ug/m3 LC,78,PM2.5 - Local Conditions
+New York (36),Small Metro,2022,"J44.9 (Chronic obstructive pulmonary disease, unspecified)",360,"856,488",42,1,3.7,ug/m3 LC,21,PM2.5 - Local Conditions
+New York (36),Small Metro,2022,J69.0 (Pneumonitis due to food and vomit),39,"856,488",4.6,1,9.7,ug/m3 LC,52,PM2.5 - Local Conditions
+New York (36),Small Metro,2022,J84.1 (Other interstitial pulmonary diseases with fibrosis),49,"856,488",5.7,1,4.2,ug/m3 LC,23,PM2.5 - Local Conditions
+New York (36),Small Metro,2022,J96.0 (Acute respiratory failure),21,"856,488",2.5,1,19.8,ug/m3 LC,71,PM2.5 - Local Conditions
+New York (36),Small Metro,2022,"J96.9 (Respiratory failure, unspecified)",56,"856,488",6.5,1,7.9,ug/m3 LC,44,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2022,"J15.9 (Bacterial pneumonia, unspecified)",58,"963,679",6,1,9.4,ug/m3 LC,52,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2022,"J18.9 (Pneumonia, unspecified)",149,"963,679",15.5,1,9.2,ug/m3 LC,51,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2022,"J43.9 (Emphysema, unspecified)",43,"963,679",4.5,1,4.5,ug/m3 LC,25,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2022,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),89,"963,679",9.2,1,7.7,ug/m3 LC,43,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2022,"J44.1 (Chronic obstructive pulmonary disease with acute exacerbation, unspecified)",41,"963,679",4.3,1,5.4,ug/m3 LC,30,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2022,"J44.9 (Chronic obstructive pulmonary disease, unspecified)",421,"963,679",43.7,1,4.9,ug/m3 LC,27,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2022,J69.0 (Pneumonitis due to food and vomit),61,"963,679",6.3,1,2.6,ug/m3 LC,14,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2022,J84.1 (Other interstitial pulmonary diseases with fibrosis),51,"963,679",5.3,1,3.6,ug/m3 LC,20,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2022,"J84.9 (Interstitial pulmonary disease, unspecified)",29,"963,679",3,1,4,ug/m3 LC,22,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2022,J96.0 (Acute respiratory failure),72,"963,679",7.5,1,5.5,ug/m3 LC,31,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2022,J96.1 (Chronic respiratory failure),41,"963,679",4.3,1,6.8,ug/m3 LC,38,PM2.5 - Local Conditions
+New York (36),Micropolitan (Nonmetro),2022,"J96.9 (Respiratory failure, unspecified)",95,"963,679",9.9,1,3.5,ug/m3 LC,19,PM2.5 - Local Conditions
+New York (36),NonCore (Nonmetro),2022,"J18.9 (Pneumonia, unspecified)",86,"391,654",22,1,2.7,ug/m3 LC,15,PM2.5 - Local Conditions
+New York (36),NonCore (Nonmetro),2022,J44.0 (Chronic obstructive pulmonary disease with acute lower respiratory infection),45,"391,654",11.5,1,4.5,ug/m3 LC,25,PM2.5 - Local Conditions
+New York (36),NonCore (Nonmetro),2022,"J44.9 (Chronic obstructive pulmonary disease, unspecified)",177,"391,654",45.2,1,10.5,ug/m3 LC,54,PM2.5 - Local Conditions
+New York (36),NonCore (Nonmetro),2022,J69.0 (Pneumonitis due to food and vomit),20,"391,654",5.1,1,7.5,ug/m3 LC,42,PM2.5 - Local Conditions
+New York (36),NonCore (Nonmetro),2022,"J96.9 (Respiratory failure, unspecified)",28,"391,654",7.1,1,2.5,ug/m3 LC,14,PM2.5 - Local Conditions
